@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-@wip
-=======
->>>>>>> 15eb114 (everything from elif <3 pain)
 Feature: Library app login feature
   User Story:
   As a user, I should be able to login with
